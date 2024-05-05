@@ -11,11 +11,9 @@ Soy un desarrollador apasionado con experiencia en el desarrollo backend utiliza
 ## Contacto
 
 
-[![Instagram](https://img.shields.io/badge/instagram%20-%20red?style=for-the-badge
-)](https://www.instagram.com/brayan_viveros13?igsh=aWpvMzZ3OHRjNGZq&utm_source=qr)
+[![Instagram](https://img.shields.io/badge/instagram%20-%20red?style=for-the-badge)](https://www.instagram.com/brayan_viveros13?igsh=aWpvMzZ3OHRjNGZq&utm_source=qr)
 [![Email](https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](briveraviveros1113@gmail.com)
-[![Facebook](https://img.shields.io/badge/Facebook-blue?style=for-the-badge
-)](https://www.facebook.com/profile.php?id=100009543455633&mibextid=LQQJ4d)
+[![Facebook](https://img.shields.io/badge/Facebook-blue?style=for-the-badge)](https://www.facebook.com/profile.php?id=100009543455633&mibextid=LQQJ4d)
 
 
 ## ⚡ TECNOLOGIAS
@@ -23,7 +21,7 @@ Soy un desarrollador apasionado con experiencia en el desarrollo backend utiliza
 ### 🚀 Lenguajes
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Javascript](https://img.shields.io/badge/JavaScript%20-%20yellow)
+![Javascript](https://img.shields.io/badge/JavaScript%20-%20yellow?style=for-the-badge)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -39,4 +37,3 @@ Soy un desarrollador apasionado con experiencia en el desarrollo backend utiliza
 
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![FireBase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
-![Vercel]()
