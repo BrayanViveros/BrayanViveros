@@ -11,8 +11,7 @@ Soy un desarrollador apasionado con experiencia en el desarrollo backend utiliza
 ## Contacto
 
 
-[![Instagram (https://img.shields.io/badge/instagram%20-%20red?style=for-the-badge
-)]
-(https://www.instagram.com/brayan_viveros13?igsh=aWpvMzZ3OHRjNGZq&utm_source=qr)]
+[![Instagram](https://img.shields.io/badge/instagram%20-%20red?style=for-the-badge
+)](https://www.instagram.com/brayan_viveros13?igsh=aWpvMzZ3OHRjNGZq&utm_source=qr)
 
 [![Email](https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](briveraviveros1113@gmail.com)
